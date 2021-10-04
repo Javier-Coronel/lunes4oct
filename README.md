@@ -19,7 +19,7 @@ Esta es la intro
 
 > ...
 
-## Capitulo 2 | Capitulo 3
+Capitulo 2 | Capitulo 3
 
 ----- | ------
 
