@@ -21,7 +21,7 @@ Esta es la intro
 
 ## Capitulo 2 | Capitulo 3
 
------------
+----- | ------
 
 asd | asd
 
