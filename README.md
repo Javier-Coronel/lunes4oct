@@ -27,3 +27,4 @@ qwe | qwe
 ñlk | ñlk
 
 
+- [ ] hacer el capitulo 4
